@@ -5,3 +5,5 @@ collect all the steps of data analyzing of New York City Airbnb 2019 open data b
 # How to Run
 
 project.R contained the code.
+AB_NYC_2019.csv is the input file from Kaggle
+Reference: https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
